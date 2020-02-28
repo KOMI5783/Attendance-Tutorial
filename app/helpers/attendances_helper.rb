@@ -1,4 +1,4 @@
-module AttendanceHelper
+module AttendancesHelper
 
   def attendance_state(attendance)
     # 受け取ったAttendanceオブジェクトが当日と一致するか評価します。
